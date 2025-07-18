@@ -3,4 +3,4 @@
 /sstate-cache/
 /tmp/
 /bitbake-cookerdaemon.log
-
+/*.sock
