@@ -4,3 +4,4 @@
 /tmp/
 /bitbake-cookerdaemon.log
 /*.sock
+/*.lock
